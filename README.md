@@ -2,7 +2,7 @@
  <p align="center"> collection of simple scripts modified/created for useful purposes </align>
 
 
-## 1.evernote
+## ▸evernote
 >script to change the background colour of evernote file . 
 
 ## how to use 
