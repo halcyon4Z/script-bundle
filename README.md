@@ -1,6 +1,6 @@
-# <p align="center"> script-bundle 
-collection of scripts for various purposes
-</align>
+# <p align="center"> script-bundle </align>
+ <p align="center"> collection of scripts for various purposes </align>
+
 
 ## 1.evernote
 >script to change the background colour of evernote file . 
