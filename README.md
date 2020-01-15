@@ -1,5 +1,5 @@
 # <p align="center"> script-bundle </align>
- <p align="center"> collection of scripts for various purposes </align>
+ <p align="center"> collection of simple scripts modified/created for useful purposes </align>
 
 
 ## 1.evernote
