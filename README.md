@@ -1,7 +1,7 @@
 <p align="center"> script-bundle </align>
 <p align="center"> collection of simple scripts modified/created for useful purposes </align>
 
-● [Evernote Background Colour Changer](https://github.com/sky2lz/script-bundle#evernote)
+● [Evernote Background Colour Changer](https://github.com/sky2lz/script-bundle#evernote)<br>
 ● [Myanimelist List Style](https://github.com/sky2lz/script-bundle#myanimelist-list-style)
 
 ### ▸evernote
