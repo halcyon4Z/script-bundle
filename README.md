@@ -1,4 +1,4 @@
-<h2> script bundle </h2>
+<h1> script bundle </h1>
 
 simple scripts to make stuff look cooler 
 
