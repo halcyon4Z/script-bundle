@@ -23,3 +23,5 @@ Myanimelist style design made by Valerio_Lyndon
 >Paste the entire code inside the 'Add Custom CSS' section in your MAL List Style Settings .
 
 . . .
+
+Licence : [CC-BY](https://creativecommons.org/licenses/by/3.0/)
